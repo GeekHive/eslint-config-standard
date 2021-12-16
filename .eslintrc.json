@@ -1,5 +1,5 @@
 {
-  "extends": ["airbnb-base/legacy", "prettier", "plugin:prettier/recommended"],
+  "extends": ["airbnb-base/legacy", "plugin:prettier/recommended"],
   "parserOptions": {
     "ecmaFeatures": { "jsx": true },
     "ecmaVersion": 2018,
